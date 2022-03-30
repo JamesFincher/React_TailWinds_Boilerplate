@@ -1,0 +1,38 @@
+{
+  "name": "create-react-tailwind-boilerplate",
+  "version": "0.0.7",
+  "bin": "./bin/cli.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.8.0"
+  },
+  "description": "Boilerplate to quickly scaffold a project using vite, react, and tailwindcss",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesFincher/React_TailWinds_Boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "tailwinds",
+    "boilerplate"
+  ],
+  "author": "James Fincher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesFincher/React_TailWinds_Boilerplate/issues"
+  },
+  "homepage": "https://github.com/JamesFincher/React_TailWinds_Boilerplate#readme"
+}
